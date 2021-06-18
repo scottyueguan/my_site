@@ -5,7 +5,7 @@
 
 title: Scott-Guan # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Scott Guan' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
