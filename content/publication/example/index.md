@@ -19,7 +19,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In *International Joint Conference on Artificial Intelligence*
+publication: In *International Joint Conference on Artificial Intelligence 2021*
 summary: We use entropy-regulated policy approximations to expedite learning
   Nash equilibrium in zero-sum stochastic games.
 url_dataset: ""
