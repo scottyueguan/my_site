@@ -5,7 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include multi-agent reinforcement learning, game
   theory and optimal control.
 interests:
-  - Multi-Agent RL   Game Theory   Optimal Control
+  - Multi-Agent RL   
+  - Game Theory   
+  - Optimal Control
 social:
   - icon: envelope
     icon_pack: fas
