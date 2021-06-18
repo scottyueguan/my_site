@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: scott.guan@gatech.edu
-phone: 470-399-0447
+phone:
 address:
   street: 270 Ferst Dr
   city: Atlanta
@@ -32,6 +32,7 @@ address:
 coordinates:
   latitude: '33.7723'
   longitude: '-84.3961'
+directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 
 # Site header
 
