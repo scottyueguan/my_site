@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: My research interests include multi-agent reinforcement learning, game
   theory and optimal control.
 interests:
-  - Multi-Agent RL  Game Theory  Optimal Control
+  - Multi-Agent RL   Game Theory   Optimal Control
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,5 +42,3 @@ superuser: true
 highlight_name: false
 ---
 Scott Guan is a PhD candidate at the Georgia Tech Dynamics and Control System Lab. He is currently advised by Prof. Panagiotis Tsiotras. His research interests include multi-agent reinforcement learning, game theory and optimal control.
-
-Multi-Agent RL Game Theory Optimal Control
