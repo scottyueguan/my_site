@@ -3,8 +3,7 @@ title: Scott Guan (管樂)
 role: PhD Candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
-  - Multi-AgentReinforcementLearning
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
