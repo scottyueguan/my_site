@@ -5,25 +5,22 @@ avatar_filename: avatar.jpg
 bio: My research interests include multi-agent reinforcement learning, game
   theory and optimal control.
 interests:
-  - Multi-Agent RL   
-  - Game Theory   
+  - Multi-Agent RL
+  - Game Theory
   - Optimal Control
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Gr0QHIEAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/GammaYankee
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yue-guan-7177a5b6/
 organizations:
   - name: Georgia Institute of Technology
     url: https://www.gatech.edu/
