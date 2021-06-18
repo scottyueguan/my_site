@@ -3,7 +3,8 @@ title: Scott Guan (管樂)
 role: PhD Candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests: []
+interests:
+  - Multi-AgentReinforcementLearning
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,19 +22,20 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Georgia Institute of Technology
+    url: https://www.gatech.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Aerospace Engineering
+      institution: Georgia Institute of Technology
+    - institution: Georgia Institute of Technology
+      course: MS in Machine Learning
+    - course: MS in Aerospace Engineering
+      institution: Georgia Institute of Technology
+      year: 2020
+    - course: "BS in Aerospace Engineering "
+      institution: Georgia Institute of Technology
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false
