@@ -28,6 +28,10 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
+- description: 10%
+  icon: tensorflow
+  icon_pack: custom
+  name: Tensorflow
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
