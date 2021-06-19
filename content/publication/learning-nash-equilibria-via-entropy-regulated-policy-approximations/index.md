@@ -26,7 +26,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: "In this work, we use entropy-regulated policy approximations expedite
-  learning Nash equilibrium in zero-sum stochastic games. "
+summary: >-
+  In this work, we use entropy-regulated policy approximations expedite learning
+  Nash equilibrium in zero-sum stochastic games. 
+
+  Accepted at IJCAI-21 (**13.9% acceptance rate!**)
 date: 2021-06-18T22:00:46.161Z
 ---
