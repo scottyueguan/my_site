@@ -31,6 +31,9 @@ summary: >-
   Nash equilibrium in zero-sum stochastic games. 
 
 
-  Accepted at IJCAI-21 (**13.9% acceptance rate!**).
+  Accepted at IJCAI-21 ({{< hl >}}13.9% acceptance rate!{{< /hl >}}).
+  
+  
+  <p style="color:blue">This is demo content.</p>
 date: 2021-06-18T22:00:46.161Z
 ---
